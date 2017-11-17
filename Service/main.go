@@ -14,12 +14,12 @@ import (
 const (
 	INDEX = "around"
 	TYPE = "post"
-	DISTANCE = "200km"
+	DISTANCE = "20000km"
 	// Needs to update
 	//PROJECT_ID = "around-xxx"
 	//BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.196.202.25:9200"
+	ES_URL = "http://35.196.191.220:9200"
 )
 
 type Location struct {
