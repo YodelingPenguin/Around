@@ -18,7 +18,7 @@ import (
 const (
 	INDEX = "around"
 	TYPE = "post"
-	DISTANCE = "20000km"
+	DISTANCE = "200km"
 	// Needs to update
 	PROJECT_ID = "tidy-landing-184606"
 	BT_INSTANCE = "around-post"
