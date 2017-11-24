@@ -23,7 +23,7 @@ const (
 	PROJECT_ID = "tidy-landing-184606"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.196.191.220:9200"
+	ES_URL = "http://35.196.249.57:9200"
 )
 
 type Location struct {
